@@ -4,3 +4,7 @@ Bachelor prosjekt "Veien til din første bolig" i sammarbeid med Sparebanken Ves
 
 En videopresentasjon av prosjektet og sluttresultatet er tilgjengelig her: </br>
 https://youtu.be/rxHVaKmucQs
+</br>
+</br>
+Hovedrapporten er tilgjengelig i pdf format her: </br>
+https://github.com/RS124810/Bacheloroppgave-Landingsside/blob/main/Hovedrapport%20D5%20DAT191.pdf
