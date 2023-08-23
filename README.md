@@ -7,4 +7,4 @@ https://youtu.be/rxHVaKmucQs
 </br>
 </br>
 Hovedrapporten er tilgjengelig i pdf format her: </br>
-https://github.com/RS124810/Bacheloroppgave-Landingsside/blob/main/Hovedrapport%20D5%20DAT191.pdf
+https://github.com/RS124810/Bacheloroppgave/blob/main/Hovedrapport%20D5%20DAT191.pdf
